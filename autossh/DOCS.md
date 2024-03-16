@@ -106,7 +106,7 @@ hostname: ssh.domain.tld  # or public IP
 ssh_port: 2222
 username: homeassistant
 remote_forwarding:
-  - 127.0.0.1:8001:172.30.32.1:8123
+  - 127.0.0.1:8124:172.30.32.1:8123
 ```
 
 ## Configuration
